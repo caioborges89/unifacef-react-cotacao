@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/262e3027-9576-4e6a-9986-5d0a4a69a837/deploy-status)](https://app.netlify.com/sites/unifacef-react-typescript-caio/deploys)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
